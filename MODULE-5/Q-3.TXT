@@ -1,0 +1,4 @@
+3).Explain what does django-admin.py  make messages command is used for?
+
+Ans. It creates (or updates) a message file in the conf/locale 
+(in the Django tree) or locale (for project and application) directory.
