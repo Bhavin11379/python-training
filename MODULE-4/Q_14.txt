@@ -1,0 +1,12 @@
+14) How many except statements can a try-except block have?
+Name Some built-in exception classes:
+
+----> At Least One except Statement is required
+
+
+Exception	                                           Description
+
+Exception	                                      Base class for all exceptions
+EOFError	                                      Raised when the input() method hits an "end of file" condition (EOF)
+FloatingPointError	                              Raised when a floating point calculation fails 
+GeneratorExit	                                  Raised when a generator is closed (with the close() method)

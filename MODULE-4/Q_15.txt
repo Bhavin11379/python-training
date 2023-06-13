@@ -1,0 +1,11 @@
+15) When will the else part of try-except-else be executed? 
+
+
+==> when no exception occurs.
+
+from os import fork 
+ 
+if fork(): 
+  print('nik') 
+else: 
+  print('hil') 

@@ -1,0 +1,4 @@
+27) What is used to check whether an object o is an instance of class A?
+
+==> Using isinstance() function, we can test whether an object /variable is an 
+    instance of the specified type or class such as int or list.

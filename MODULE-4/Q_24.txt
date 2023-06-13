@@ -1,0 +1,11 @@
+25) Explain Inheritance in Python with an example? What is init? Or What Is A Constructor In Python ?
+
+==>Inheritance is the capability of one class to derive or inherit the property from  
+   another class
+
+example:
+
+Class Baseclass:
+{body}
+class DerivedClass(Baseclass)
+{body}

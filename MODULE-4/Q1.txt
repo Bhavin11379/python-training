@@ -1,0 +1,25 @@
+
+1) What is File function in python? What is keywords to create and write file.
+
+---> A file object allows us to use, access and manipulate all the user accessible files.
+ One can read and write any such files.
+When a file operation fails for an I/O-related reason, the exception IOError is raised.
+ This includes situations where the operation is not defined for some reason, 
+ like seek() on a tty device or writing a file opened for reading. 
+
+===> keywords
+
+open()
+read([size])
+readline([size])
+readlines([sizehint])
+write(string)
+writelines(sequence)
+tell()
+seek(offset, from_where)
+flush()
+fileno()
+isatty()
+next()
+truncate([size])
+close()
